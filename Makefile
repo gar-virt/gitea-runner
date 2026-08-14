@@ -1,4 +1,4 @@
-UPSTREAM_VERSION := v2.0.1
+UPSTREAM_VERSION := v3.1.0
 UPSTREAM_DIR := upstream
 UPSTREAM_SOURCE_DIR := $(UPSTREAM_DIR)/source
 UPSTREAM_SOURCE_URL := https://gitea.com/gitea/runner/archive/$(UPSTREAM_VERSION).tar.gz
